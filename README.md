@@ -1,0 +1,2 @@
+# VtkDemo-and-library
+这是关于使用Qt和Vtk实现简单demo的仓库，该仓库包含了demo的实现和vtk编译后的库
